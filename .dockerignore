@@ -1,0 +1,12 @@
+node_modules
+.next
+build
+dist
+frontend/node_modules
+frontend/build
+backend/target
+target
+.git
+.gitignore
+Dockerfile
+README.md
